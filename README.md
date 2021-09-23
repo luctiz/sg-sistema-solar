@@ -1,1 +1,3 @@
-# sg-sistema-solar
+# Sistema solar
+
+Ejercicio para la materia Sistemas Gráficos
