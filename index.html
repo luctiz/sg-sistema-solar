@@ -426,7 +426,7 @@
             // mTierra = m1 * matRot * matRot
             mat4.rotate(mTierra,mTierra, segundo * t_rotaciones_por_segundo * 2 * Math.PI ,vec3.fromValues(0,1,0)) //rotacion sobre su eje         
 
-            setTransform(tierra,m1);
+            setTransform(tierra,mTierra);
   
             // luna
             // gira alrededor de la tierra 1 vez cada 30 dias
